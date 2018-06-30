@@ -1,0 +1,13 @@
+root_dir: /Users/ryohashi/files_generator/
+design:
+  0:
+  - 2018-06-30
+  1:
+  - 作業その１
+  - 作業その２
+  2:
+  - PC
+  - SP
+  files:
+  - 本番.php
+  - D環境.php
